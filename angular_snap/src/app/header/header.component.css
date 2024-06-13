@@ -1,0 +1,40 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.sec_1{
+    
+    align-items: center;
+    display: flex;
+justify-content: space-between;
+float:  left;
+background-position: left center;
+
+}
+.sec_1 img{
+    width: 70px;
+    height: 40px;
+    margin-right: 10px;
+}
+.sec_1 input{
+    background-image: url("../../assets/images/search.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 40px;
+    background-color: transparent;
+    width: 90%;
+    font-size: 11px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #818080;
+    margin-bottom: 0px;
+    border-radius: 30px;
+}
+.sec_2 img{
+width: 300px;
+height: 65px;
+}
+.sec_3 img{
+    width: 280px;
+    height: 65px;
+}
